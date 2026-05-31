@@ -26,17 +26,11 @@ The following tools and software were used in this project:
 |Manufacturing Date | Date when the product was manufactured |
 |Country Code | Country identifier where the product is associated |
 |Product ID | Unique identifier for each product |
-
 |Product Brand | Product brand or model information |
-
 |Product Name | Name of the product |
-
 |Brand Name | Manufacturer or brand of the product |
-
 |Price ($) | Selling price of the product |
-
 |Quantity | Available inventory quantity | 
-
 |Category | Product classification (Electronics, Fashion, Kitchen, Outdoor, Accessories, etc.) |
 
 ## Installation
@@ -114,5 +108,6 @@ This project helped improve practical knowledge in:
 •	Generate reports and dashboards in Excel.
 
 Their support and resources contributed greatly to the successful completion of the Excel-Based Product Inventory Report project.
+
 
 
