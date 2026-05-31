@@ -16,9 +16,9 @@ The project aims to:
 ## Getting Started
 ### Dependencies
 The following tools and software were used in this project:
-• OS Version
-• MS Office latest version
-• Knowledge of Excel formula
+•	OS Version
+•	MS Office latest version
+•	Knowledge of Excel formula
 
 ## Dataset Description
 |Column Name | Description|
@@ -40,16 +40,16 @@ The following tools and software were used in this project:
 4. If a Protected View message appears, click Enable Editing.
 5. Review the dataset and explore the product inventory and pricing details.
 6. Use Excel features such as:
-	Sorting and Filtering
-	Find and Replace 
-	Conditional Formatting 
-	Text Functions (PROPER, TRIM, CLEAN) 
-	IF Function 
-	AVERAGE Function 
-	Cell Formatting (DD-MM-YYYY format and format currency values)
-	Data Validation 
-	Tables 
-	Basic Data Cleaning Techniques 
+•	Sorting and Filtering
+•	Find and Replace 
+•	Conditional Formatting 
+•	Text Functions (PROPER, TRIM, CLEAN) 
+•	IF Function 
+•	AVERAGE Function 
+•	Cell Formatting (DD-MM-YYYY format and format currency values)
+•	Data Validation 
+•	Tables 
+•	Basic Data Cleaning Techniques 
 
 ## Executing program
 ### Step to run the program
@@ -108,6 +108,4 @@ This project helped improve practical knowledge in:
 •	Generate reports and dashboards in Excel.
 
 Their support and resources contributed greatly to the successful completion of the Excel-Based Product Inventory Report project.
-
-
 
